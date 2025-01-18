@@ -2,3 +2,5 @@ this is file2 for git.
 add more to this file.
 
 add another message.
+
+add footer note.
