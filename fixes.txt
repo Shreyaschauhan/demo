@@ -1,3 +1,11 @@
+#merge branch bug-fix.
+
 I am a fix file which use fix the bug.
 
 fix another bug.
+
+one more bug detected and fix.
+
+fourth bug fixd.
+
+fifth bug fixed.
